@@ -18,11 +18,11 @@ dark_knight=media.Movie("The Dark Knight",
                         "https://www.youtube.com/watch?v=_PZpmTj1Q8Q")
 fightclub=media.Movie("Fight Club",
                       """An insomniac office worker, looking for a way to change his life,
-                      crosses paths with a devil-may-care soap maker,
-                      forming an underground fight club that
-                      evolves into something much, much more.""",
-                      "http://www.flore-maquin.com/wp-content/uploads/Fight_club_RVB_721.jpg"  # noqa ,
-                      "https://www.youtube.com/watch?v=_XgQA9Ab0Gw")
+                        crosses paths with a devil-may-care soap maker,
+                        forming an underground fight club that
+                        evolves into something much, much more.""",
+                        "http://www.flore-maquin.com/wp-content/uploads/Fight_club_RVB_721.jpg"  # noqa ,
+                        "https://www.youtube.com/watch?v=_XgQA9Ab0Gw")
 interstellar=media.Movie("Interstellar",
                         """A team of explorers travel through a wormhole in space
                          in an attempt to ensure humanity's survival.""",
